@@ -12,8 +12,8 @@
 
     <repositories>
         <repository>
-            <id>github</id>
-            <name>GitHub OWNER Apache Maven Packages</name>
+            <id>simplog</id>
+            <name>Logging</name>
             <url>https://maven.pkg.github.com/a1re1/simplog</url>
             <releases>
                 <enabled>true</enabled>
@@ -23,8 +23,8 @@
             </snapshots>
         </repository>
         <repository>
-            <id>github</id>
-            <name>GitHub OWNER Apache Maven Packages</name>
+            <id>sql-utils</id>
+            <name>SQL</name>
             <url>https://maven.pkg.github.com/a1re1/sql.utils</url>
             <releases>
                 <enabled>true</enabled>
